@@ -22,4 +22,11 @@ Power BI dashboard analyzing how discount strategy affects sales growth and prof
 
 ---
 
+### 📊 Academic & Seminar Projects
+
+**[Retention Curve & Early Churn Warning Signals](https://github.com/sorawitjaksusuwan-cell/capstone-retention-churn-analysis)** — Capstone
+Cohort retention analysis and churn risk segmentation for a streaming subscription service, with data-backed retention campaign recommendations.
+
+---
+
 📫 sorawit.jaksusuwan@gmail.com
