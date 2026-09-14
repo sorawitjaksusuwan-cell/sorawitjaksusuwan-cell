@@ -22,7 +22,7 @@ Power BI dashboard analyzing how discount strategy affects sales growth and prof
 
 ---
 
-### 📊 Academic & Seminar Projects
+### 📖 Academic & Seminar Projects
 
 **[Academic & Research Projects](https://github.com/sorawitjaksusuwan-cell/academic-projects)** — Coursework and seminar projects from the Faculty of Economics, Thammasat University, spanning time-series econometrics, applied regression, public policy analysis, and business/consumer research.
 
